@@ -1,0 +1,7 @@
+encoder.c:55:6:Encoder_Initialize	8	static
+encoder.c:68:6:Encoder_ResetCount_Left	0	static
+encoder.c:76:6:Encoder_ResetCount_Right	0	static
+encoder.c:84:7:Encoder_GetAngle_Left	0	static
+encoder.c:92:7:Encoder_GetAngle_Right	0	static
+encoder.c:101:6:Get_speed	16	static
+encoder.c:202:6:speed_m_average	32	static

@@ -1,0 +1,2 @@
+battery.c:17:7:Battery_GetVoltage	8	static
+battery.c:25:6:Battery_LimiterVoltage	24	static

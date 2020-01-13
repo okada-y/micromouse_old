@@ -1,0 +1,4 @@
+module_test.c:46:6:log_init	0	static
+module_test.c:54:6:data_get	24	static
+module_test.c:95:6:data_read	24	static
+module_test.c:147:6:module_test	96	static

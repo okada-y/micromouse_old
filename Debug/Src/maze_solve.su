@@ -1,0 +1,6 @@
+maze_solve.c:164:13:fust_run	72	static
+maze_solve.c:675:13:make_map_find	4208	static
+maze_solve.c:963:13:make_map_fustrun	6272	static
+maze_solve.c:1281:13:move_step	32	static
+maze_solve.c:1358:13:search_adachi	1232	static
+maze_solve.c:2368:6:maze_solve	1160	static

@@ -1,0 +1,3 @@
+communication.c:15:6:Communication_Initialize	8	static
+communication.c:30:6:__io_putchar	16	static
+communication.c:43:5:__io_getchar	16	static
